@@ -44,6 +44,7 @@ AI_TICKET_PROJECT/
 ├── docs/
 └── project_overview.txt
 
+```
 
 ---
 
@@ -155,5 +156,6 @@ My laptop is not working urgently and shows error 404.
 ## 👩‍💻 Author
 Computer Engineering Student  
 AI & Machine Learning Project – 2025
+
 
 
